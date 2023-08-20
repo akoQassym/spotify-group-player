@@ -20,13 +20,13 @@ Spotify Group Player is a dynamic and engaging web application that lets users f
 
 ## Screenshots
 
-### Home Page
-
-![Home Page](/screenshots/home.png)
-
 ### Creating a Room
 
 ![Create Room](/screenshots/create-room.png)
+
+### Joining a Room with a Unique key
+
+![Join Room](/screenshots/join-room.png)
 
 ### Room Experience
 
