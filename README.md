@@ -63,4 +63,4 @@ This project is licensed under the [MIT License](/LICENSE).
 
 ---
 
-Experience the joy of shared music with Spotify Group Player! Connect, collaborate, and groove together. If you have any questions or feedback, please don't hesitate to contact us at [contact@spotifygroupplayer.com](mailto:contact@spotifygroupplayer.com).
+Experience the joy of shared music with Spotify Group Player! Connect, collaborate, and groove together. If you have any questions or feedback, please don't hesitate to contact me at [ak8827@nyu.edu](mailto:ak8827@nyu.edu).
